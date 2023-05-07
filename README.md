@@ -1,6 +1,6 @@
 # fem-master-thesis
 
-# Implémentation d'une méthode d'éléments finis non conformes de
+Implémentation d'une méthode d'éléments finis non conformes de
 Crouzeix-Raviart pour résoudre le problème de la chaleur
 
 Ce code a été réalisé dans le cadre de mon mémoire de master
@@ -34,5 +34,5 @@ Ce script implémente la fonction f
 Scritp 8: u.m
 ce script implémente la solution exacte du problème
 
-Scrit 9: ufem2.m
+Script 9: ufem2.m
 Ce script affiche la solution obtenue par éléments finis et la solution exacte.

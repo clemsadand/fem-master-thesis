@@ -9,7 +9,7 @@ en Analyse numérique des EDP.
 Les scripts principales de ce code sont : maillage.m, mfrontiere.m,
 aretes.m, quadrature, hatFuntions.m, assemblage.m, f.m, u.m, ufem2.m
 
-Script 1 : maillage.m 
+Script 1: maillage.m 
 Ce script genère un maillage conforme du carré (0,1)^2
 
 Script 2: mfrontiere.m 

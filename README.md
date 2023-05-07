@@ -7,7 +7,7 @@ Ce code a été réalisé dans le cadre de mon mémoire de master
 en Analyse numérique des EDP.
 
 Les scripts principales de ce code sont : maillage.m, mfrontiere.m,
-aretes.m, quadrature, hatFuntions.m, assemblage.m, f.m, u.m
+aretes.m, quadrature, hatFuntions.m, assemblage.m, f.m, u.m, ufem2.m
 
 Script 1 : maillage.m 
 Ce script genère un maillage conforme du carré (0,1)^2
@@ -32,3 +32,7 @@ Script 7: f.m
 Ce script implémente la fonction f
 
 Scritp 8: u.m
+ce script implémente la solution exacte du problème
+
+Scrit 9: ufem2.m
+Ce script affiche la solution obtenue par éléments finis et la solution exacte.

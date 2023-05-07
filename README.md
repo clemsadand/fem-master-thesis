@@ -1,6 +1,6 @@
 # fem-master-thesis
 
-#Implémentation d'une méthode d'éléments finis non conformes de
+# Implémentation d'une méthode d'éléments finis non conformes de
 Crouzeix-Raviart pour résoudre le problème de la chaleur
 
 Ce code a été réalisé dans le cadre de mon mémoire de master
